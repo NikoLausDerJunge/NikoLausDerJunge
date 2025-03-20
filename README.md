@@ -8,7 +8,7 @@ I'm a developer with experience in building scalable web applications, working w
 Let me know if you want to add anything specific! 🚀
 
 <a href="https://github.com/Jurredr/github-widgetbox">
-  <img width="60%" height="60%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,javascript,python,java,csharp,php,bash,powershell,lua,mysql&includeNames=true&theme=darkmode" alt="GitHubWidget Box"></p>
+  <img width="60%" height="60%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,javascript,python,java,csharp,php,bash,powershell,lua,mysql&includeNames=false" alt="GitHubWidget Box"></p>
 
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://07m.vercel.app/)
