@@ -14,9 +14,6 @@
         <li>🐈</li>
       </ul>
     </td>
-    <td style="vertical-align: middle;">
-      <img src="https://i.imgur.com/q7g0WMg.jpeg" width="100"/>
-    </td>
   </tr>
 </table>
 
