@@ -2,6 +2,24 @@
 
 # Hello 👋, Im 07m
 
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <th colspan="2" style="text-align: center;">About me</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      <ul>
+        <li style="vertical-align: top; text-align: left;">i code (sometimes)</li>
+        <li>i got more private repos than braincells</li>
+        <li>🐈</li>
+      </ul>
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://i.imgur.com/q7g0WMg.jpeg" width="100"/>
+    </td>
+  </tr>
+</table>
+
 
 # 🚀 About Me
 
