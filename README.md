@@ -4,14 +4,12 @@
 
 <table align="center" border="0" style="border: none;">
   <tr>
-    <th colspan="2" style="text-align: center;">About me</th>
+    <th colspan="2" style="text-align: center;">🚀 About Me</th>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: left;">
       <ul>
-        <li>i code (sometimes)</li>
-        <li>i got more private repos than braincells</li>
-        <li>🐈</li>
+        <li>I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies. I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.</li>
       </ul>
     </td>
   </tr>
