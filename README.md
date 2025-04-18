@@ -7,8 +7,8 @@
     <th colspan="2" style="text-align: center;">🚀 About Me</th>
   </tr>
   <tr>
-    <td style="vertical-align: top; text-align: center;">
-      <ul style="vertical-align: top; text-align: center;">
+    <td>
+      <ul>
         I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies. I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.
       </ul>
     </td>
