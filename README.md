@@ -2,15 +2,13 @@
 
 # Hello 👋, Im 07m
 
-<div align="center">
-
 <table border="0">
   <tr>
     <th colspan="2" style="text-align: center;">About me</th>
   </tr>
   <tr>
-    <td style="vertical-align: middle;">
-      <ul align="left">
+    <td>
+      <ul style="list-style-position: inside; text-align: center; padding: 0;">
         <li>i code (sometimes)</li>
         <li>i got more private repos than braincells</li>
         <li>🐈</li>
@@ -18,9 +16,6 @@
     </td>
   </tr>
 </table>
-
-</div>
-
 
 
 # 🚀 About Me
