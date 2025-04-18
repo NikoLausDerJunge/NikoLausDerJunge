@@ -7,7 +7,7 @@
     <th colspan="2" style="text-align: center;">About me</th>
   </tr>
   <tr>
-    <td style="vertical-align: middle;">
+    <td style="vertical-align: center;">
       <ul>
         <li style="vertical-align: middle;">i code (sometimes)</li>
         <li>i got more private repos than braincells</li>
