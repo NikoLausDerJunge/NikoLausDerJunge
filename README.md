@@ -9,18 +9,13 @@
   <tr>
     <td>
       <ul>
-        I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies. I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.
-
-        Let me know if you want to add anything specific! 🚀
+        <li>I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies. </li>
+        <li>I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.</li>
+        <li>Let me know if you want to add anything specific! 🚀</li>
       </ul>
     </td>
   </tr>
 </table>
-
-## 🚀 About Me
-I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies. I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.
-
-Let me know if you want to add anything specific! 🚀
 
 <a href="https://github.com/Jurredr/github-widgetbox">
   <img width="60%" height="60%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,javascript,python,java,csharp,php,bash,powershell,lua,mysql&includeNames=false" alt="GitHubWidget Box"></p>
