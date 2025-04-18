@@ -12,8 +12,6 @@ Let me know if you want to add anything specific! 🚀
   <img width="60%" height="60%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,javascript,python,java,csharp,php,bash,powershell,lua,mysql&includeNames=false" alt="GitHubWidget Box"></p>
 
 <p align="center">
-  <a href="https://golang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg" /></a>
   <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" /></a><br>
@@ -21,6 +19,7 @@ Let me know if you want to add anything specific! 🚀
   <a href="https://nodejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Java"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java.svg" /></a>
 </p>
 
 ## 🔗 Links
