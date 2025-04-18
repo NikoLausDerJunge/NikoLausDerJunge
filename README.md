@@ -9,6 +9,7 @@ I'm a developer with experience in building scalable web applications, working w
 
 Let me know if you want to add anything specific! 🚀
 
+<hr>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" /></a>
@@ -25,6 +26,7 @@ Let me know if you want to add anything specific! 🚀
   <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg" /></a>
 </p>
 
+<hr>
 
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://07m.vercel.app/)
