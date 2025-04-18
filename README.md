@@ -22,6 +22,7 @@ Let me know if you want to add anything specific! 🚀
   <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" /></a>
   <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" /></a>
   <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" /></a>
+  <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg" /></a>
 </p>
 
 ## 🔗 Links
