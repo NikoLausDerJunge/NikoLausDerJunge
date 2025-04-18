@@ -2,20 +2,27 @@
 
 # Hello 👋, Im 07m
 
+<div align="center">
+
 <table border="0">
   <tr>
     <th colspan="2" style="text-align: center;">About me</th>
   </tr>
   <tr>
     <td>
-      <ul style="list-style-position: inside; text-align: center; padding: 0;">
-        <li>i code (sometimes)</li>
-        <li>i got more private repos than braincells</li>
-        <li>🐈</li>
-      </ul>
+      <div style="text-align: center;">
+        <ul style="display: inline-block; text-align: left;">
+          <li>i code (sometimes)</li>
+          <li>i got more private repos than braincells</li>
+          <li>🐈</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 
 # 🚀 About Me
