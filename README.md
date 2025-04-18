@@ -2,22 +2,6 @@
 
 # Hello 👋, Im 07m
 
-<table align="center" border="0" style="border: none;">
-  <tr>
-    <th colspan="2" style="text-align: center;">🚀 About Me</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies.
-        I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.
-        <pr>
-        Let me know if you want to add anything specific! 🚀
-      </ul>
-    </td>
-  </tr>
-</table>
-
 # 🚀 About Me
 
 I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies.I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.
