@@ -1,3 +1,4 @@
+<div align="center">
 
 # Hello 👋, Im 07m
 
@@ -13,3 +14,5 @@ Let me know if you want to add anything specific! 🚀
 ## 🔗 Links
 [![twitter](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://07m.vercel.app/)
 [![discord](https://img.shields.io/badge/discord-4f5ae1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bk9nHuSbDJ)
+
+</div>
