@@ -10,8 +10,7 @@
   <tr>
     <td align="center">
       I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies.I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.<br>
-      i got more private repos than braincells<br>
-      🐈
+      Let me know if you want to add anything specific! 🚀
     </td>
   </tr>
 </table>
