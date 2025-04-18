@@ -9,7 +9,7 @@
   <tr>
     <td style="vertical-align: top; text-align: left;">
       <ul>
-        <li>I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies. I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.</li>
+        I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies. I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.
       </ul>
     </td>
   </tr>
