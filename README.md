@@ -9,17 +9,16 @@
     <th colspan="2">About me</th>
   </tr>
   <tr>
-    <td>
-      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-        <span>I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies.I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.</span>
-        <span>i got more private repos than braincells</span>
-        <span>🐈</span>
-      </div>
+    <td align="center">
+      i code (sometimes)<br>
+      i got more private repos than braincells<br>
+      🐈
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 
