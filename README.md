@@ -9,9 +9,9 @@
   <tr>
     <td>
       <ul>
-        <li>I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies. </li>
-        <li>I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.</li>
-        <li>Let me know if you want to add anything specific! 🚀</li>
+        I'm a developer with experience in building scalable web applications, working with both front-end and back-end technologies.
+        I have expertise in modern frameworks, databases, and I enjoy solving complex problems through clean and efficient code.
+        Let me know if you want to add anything specific! 🚀
       </ul>
     </td>
   </tr>
