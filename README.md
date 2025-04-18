@@ -8,9 +8,6 @@ I'm a developer with experience in building scalable web applications, working w
 
 Let me know if you want to add anything specific! 🚀
 
-<a href="https://github.com/Jurredr/github-widgetbox">
-  <img width="60%" height="60%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,javascript,python,java,csharp,php,bash,powershell,lua,mysql&includeNames=false" alt="GitHubWidget Box"></p>
-
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg" /></a>
