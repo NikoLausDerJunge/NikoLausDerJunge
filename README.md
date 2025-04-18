@@ -6,18 +6,21 @@
 
 <table border="0">
   <tr>
-    <th colspan="2" style="text-align: center;">About me</th>
+    <th colspan="2">About me</th>
   </tr>
   <tr>
-    <td style="text-align: center;">
-      <p>i code (sometimes)</p>
-      <p>i got more private repos than braincells</p>
-      <p>🐈</p>
+    <td>
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+        <span>i code (sometimes)</span>
+        <span>i got more private repos than braincells</span>
+        <span>🐈</span>
+      </div>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 
