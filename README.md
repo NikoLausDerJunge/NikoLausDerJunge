@@ -21,7 +21,7 @@ Let me know if you want to add anything specific! 🚀
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" /></a>
   <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" /></a>
   <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" /></a>
-  <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" /></a>
+  <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" /></a>
 </p>
 
 ## 🔗 Links
