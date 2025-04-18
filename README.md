@@ -9,14 +9,10 @@
     <th colspan="2" style="text-align: center;">About me</th>
   </tr>
   <tr>
-    <td>
-      <div style="text-align: center;">
-        <ul style="display: inline-block; text-align: left;">
-          <li>i code (sometimes)</li>
-          <li>i got more private repos than braincells</li>
-          <li>🐈</li>
-        </ul>
-      </div>
+    <td style="text-align: center;">
+      <p>i code (sometimes)</p>
+      <p>i got more private repos than braincells</p>
+      <p>🐈</p>
     </td>
   </tr>
 </table>
