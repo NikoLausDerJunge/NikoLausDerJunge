@@ -39,18 +39,6 @@
 [![twitter](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://07m.vercel.app/)
 [![discord](https://img.shields.io/badge/discord-4f5ae1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bk9nHuSbDJ)
 
-</div>
-
-
-
-
-
-
-
-
-
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NikoLausDerJunge&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -59,5 +47,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NikoLausDerJunge&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
